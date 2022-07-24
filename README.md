@@ -11,3 +11,5 @@ Below is a screen shot of the weather dashboard:
 ![The finished Weather Dashboard](assets/images/Weather-Dashboard.png)
 
 Below is a link to the site:
+
+https://sammarch.github.io/06-Server-Side-API-Weather-Dashboard/
